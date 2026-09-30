@@ -1,0 +1,6 @@
+{
+  "name": "SafeTour — Smart Crowd Safety Management",
+  "description": "AI-driven crowd density monitoring, predictive risk alerts, geo-fenced safety zones, and emergency tourist assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
